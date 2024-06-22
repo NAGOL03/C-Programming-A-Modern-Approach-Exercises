@@ -1,0 +1,18 @@
+How many tokens are there in the following statement?
+
+answer = (3*q-p*p) / 3;
+
+Answer:
+    There are 14 tokens in the statement above.
+    (Token x Quantity):
+        - answer
+        - =
+        - (
+        - )
+        - 3 x 2
+        - * x 2
+        - q
+        - -
+        - p x 2
+        - /
+        - ;

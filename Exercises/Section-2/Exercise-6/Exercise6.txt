@@ -1,0 +1,5 @@
+Why is it not a good idea for an identifier
+to contain more than one adjacent underscore (as in current__balance, for example)?
+
+It is not good for an identifier to contain more than one adjacent underscore because
+it affects the readability of the identifier and adds unnecessarity complexity.
